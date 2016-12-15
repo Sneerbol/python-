@@ -6,10 +6,16 @@ def OnKeyboardEvent(event):
 
    
     print ('-------')
+
+    
     
     print ('WindowName:',event.WindowName)
+
+    
     
     print('Key:', event.Key)
+
+    
     print(foo())
     
     
